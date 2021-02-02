@@ -1,0 +1,5 @@
+Q & A in the jupyter_notebook file.
+Dataset details:
+1. Auto MPG The cars dataset we partly looked at in the lecture. The goal is to analyze fuel consumption of approx. 400 cars based on 8 variables. Information: https://archive.ics.uci.edu/ml/datasets/
+Auto+MPG
+2. Iris The iris flower dataset is a second classic in data analysis. The goal is to characterize and distinguish the three types of iris flowers. Information: https://archive.ics.uci.edu/ml/datasets/Iris
