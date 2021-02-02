@@ -1,0 +1,11 @@
+Q & A in the jupyter_notebook file.
+Dataset details:
+1. The first dataset 93cars.dat.csv contains 93 new car models for the 1993 year. 26 attributes are given for each car including manufacturer, prices, mpg, engine and body sizes. The dataset description can be found
+here http://ww2.amstat.org/publications/jse/datasets/93cars.txt. Missing values are imputed by median values.
+2. The tumor dataset provides data for 64 tumors (each from a different patient). For each tumor gene expressions were measured for 6830 genes. Hence, we have a 64 × 6830 dataset which is given as a transposed
+matrix (􀀀 6830 × 64) as e.g. excel cannot handle that many columns. The cells mostly come from known cancer types and if known the respective information is given in the data.
+The classes are breast, cns (central nervous system), colon, leukemia, melanoma, nsclc (non-small-cell lung cancer), ovarian, prostate, renal, K562A, K562B, MCF7A, MCF7D (those four are laboratory tumor cultures which
+we will not use) and unknown. We will try to characterize each cancer type using the gene expression data. Idea: Different types of cells have different expression profiles. Many diseases, including cancer, fundamentally involve breakdowns in
+the regulation of gene expression. The expression profile of cancer cells becomes abnormal, and different kinds of cancers have different expression profiles. The goal is to find abnormal gene expression profiles to
+characterize different types of cancer (each tumor/patient belongs to one of the cancer classes). The data originates from the following project: http://genome-www.stanford.edu/nci60/ and is provided, for example, through the book Friedman et al. (2001). The elements of statistical learning.
+Springer.: http://statweb.stanford.edu/~tibs/ElemStatLearn/data.html
