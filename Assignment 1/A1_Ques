@@ -1,0 +1,21 @@
+Q1. Analyze the gross of a single movie over time. Go to the Weekly Box Office data (see menu on the left). Select a year you are interested in and sort the table by #1 Movie and pick a movie
+whose title starts with the first letter of your given name. Update the file to show the data for your movie. Now improve the baseline visualization to be easier to read and more appealing. Also add the rank of the movie to your chart. Using your visualization, the user shall be able to
+answer the following questions:
+1. How is the weekly gross developing over time?
+2. Is there a correlation with the rank of the movie?
+3. How long does the movie stay in the Top 10?
+
+Q2. Market shares of different studios. Under the menu entry “Indices” → “Studios”, you can find the market shares of many studios. Choose a year randomly and visualize the market shares such that you are able to answer the following questions:
+1. Is there a dominating studio?
+2. How does the share compare to the number of movies produced by this studio? (Did they just produce
+more films or were their films more successful?)
+
+Q3. Analyze if a certain genre does particularly well. Pick a genre and visualize when movies in this genre were released und how much gross they made. (Pick at most the top 30 movies)
+Questions for the visualization:
+1. Is there a time, when movies of your genre were very popular?
+2. Which movie of your genre made the highest gross (when and how much)?
+3. How likely is it that a film from this genre becomes a great financial success?
+
+Pick the 5 most successful movies from your genre und analyze how they performed in other countries (outside the US). Questions for the visualization:
+1. In which countries can you make the highest profit with this genre?
+2. Is the genre famous in a certain region or culture?
