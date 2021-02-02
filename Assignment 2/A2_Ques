@@ -1,0 +1,10 @@
+Q & A in the jupyter_notebook file. 
+Dataset details:
+• Baseball:
+– Brief description: This dataset contains information about baseball players, their physical characteristics, and their performance.
+– Variables: name, handedness (right or left handed), height (in inches), weight (in pounds), batting average, and number of home runs
+• Titanic:
+– Brief description: This dataset lists all passengers on the the ocean liner Titanic along with their
+economic status (class), gender, age and survival.
+– Data description http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html
+– Variables http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/Ctitanic3.html
